@@ -1,0 +1,23 @@
+.container-fluid{
+    background-color: antiquewhite;
+}
+
+.container{
+    padding: 75px;
+    background-color: rgb(172, 241, 218);
+    opacity: 70%;
+}
+
+.col{
+opacity: 85%;
+}
+
+.btn{
+    color: white;
+    background-color: chocolate;
+}
+
+.col-md-6{
+    padding: 30px;
+    color: black;
+}
